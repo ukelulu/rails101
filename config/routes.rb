@@ -12,4 +12,3 @@ namespace :account do
 end
    root 'groups#index'
 end
-ss
